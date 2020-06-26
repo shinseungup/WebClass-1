@@ -10,3 +10,5 @@ Python
 
 MATLAB 
 ## Big Data
+
+60132280 신승업
